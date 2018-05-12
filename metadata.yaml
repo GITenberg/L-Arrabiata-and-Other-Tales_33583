@@ -1,0 +1,41 @@
+_repo: L-Arrabiata-and-Other-Tales_33583
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wilson, Mary
+    gutenberg_agent_id: '42013'
+    url: http://www.gutenberg.org/2009/agents/42013
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: 'L''Arrabiata -- Count Ernest''s home -- Blind -- Walter''s little
+  mother -- The dead lake and other tales: A fortnight at the dead lake. Doomed. Beatrice.
+  Beginning, and end.'
+title: L'Arrabiata and Other Tales
+url: http://www.gutenberg.org/ebooks/33583
